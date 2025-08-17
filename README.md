@@ -8,5 +8,5 @@
 
 2.How to Run:
   1. Clone the repository:
-    git clone https://github.com/your-username/calculator-project.git
+    git clone https://github.com/KavanaHarish/Simple-Calculator.git
   2. Open calc.html in your browser.
